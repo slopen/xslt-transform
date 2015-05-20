@@ -1,0 +1,8 @@
+{
+  "name": "xslt-transform",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "xslt4node": "^0.2.0"
+  }
+}
